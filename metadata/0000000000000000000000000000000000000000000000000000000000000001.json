@@ -1,11 +1,11 @@
 {
-    "name": "1 Million Puppy Coin",
-    "description": "1 Million Puppy Coin",
-    "image": "https://assets.puppyverse.org/images/million.gif",
+    "name": "10 Million Puppy Coin",
+    "description": "10 Million Puppy Coin",
+    "image": "https://assets.puppyverse.org/images/10million.gif",
     "attributes": [
         {
             "trait_type": "Value (PUP)",
-            "value": 1000000
+            "value": 10000000
         }
     ]
 }
