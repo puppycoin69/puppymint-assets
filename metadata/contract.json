@@ -1,6 +1,6 @@
 {
     "name": "Puppy Coins",
-    "description": "The first semi-fungible meme coin. Very wow.",
+    "description": "Very wow. Puppy Mint Coins are the first ever collectible meme coins listed as semi-fungible tokens. Each coin is 1:1 backed by its specified amount of ERC-20 Puppy Coins (PUP). The Puppy Mint Coins in this collection are tradeable on all NFT exchanges, and can be minted or redeemed by anyone at any time for their specified PUP value from the PuppyMint Smart Contract.",
     "image": "https://assets.puppyverse.org/images/1mil.png",
     "seller_fee_basis_points": 0,
     "fee_recipient": "0x71FFe7970c2834E7D455731fe3017239e6841cA5"
